@@ -1,0 +1,6 @@
+[
+	{ "keys": ["super+0"], "command": "reset_font_size" },
+	// invert paste & paste_and_indent: http://sublimetexttips.com/this-one-simple-sublime-text-tweak-makes-copying-and-pasting-code-a-breeze/
+	{ "keys": ["super+v"], "command": "paste_and_indent" },
+	{ "keys": ["super+shift+v"], "command": "paste" }
+]

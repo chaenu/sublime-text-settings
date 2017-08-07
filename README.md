@@ -1,2 +1,2 @@
 # Sublime Text settings
-My personal settings for [Sublime Text 2](https://www.sublimetext.com/).
+My personal settings for [Sublime Text 3](https://www.sublimetext.com/).
